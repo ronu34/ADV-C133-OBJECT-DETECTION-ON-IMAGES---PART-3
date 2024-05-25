@@ -1,0 +1,18 @@
+body{
+    background: rgb(143,50,17);
+    background: linear-gradient(
+                90deg, 
+                rgba(143,50,17,1) 0%, 
+                rgba(39,163,110,1) 25%, 
+                rgba(19,121,214,1) 73%, 
+                rgba(162,54,18,1) 100%
+    );
+}
+
+.btn-close-white{
+    width: 800px;
+    font-size: x-large;
+    border-radius: 600px;
+    background-color: white;
+    color: black;
+}
